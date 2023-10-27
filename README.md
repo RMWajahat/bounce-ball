@@ -1,5 +1,6 @@
 # Bounce Ball
-  Bounce ball uses OOP (Object Oriented Programming) to make this game functional. It also includes UI interfece which is made using tutle graphics.
+  Bounce ball uses OOP (Object Oriented Programming) to make this game functional. It also includes a UI interface which is made using turtle graphics.
+This game is fully customizable, and the size of the screen colors of the game and more.
 
 # Modules Used:
   1. Turtle
